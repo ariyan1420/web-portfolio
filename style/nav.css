@@ -89,3 +89,22 @@ nav {
 .banner-content{
   max-width: 585px; padding: 0px; margin: 0px;
 }
+
+/* main style */
+.main{
+  max-width: 1140px;
+  margin: 0px auto;
+}
+
+/* about style */
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  background-color: #FFF8F3;
+  margin-top: 130px;
+  text-align: center;
+}
+.about-items{
+  display: flex;
+  justify-content: space-around;
+}
